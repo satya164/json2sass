@@ -1,4 +1,6 @@
 # json2scss
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/satya164/json2scss.svg)](https://greenkeeper.io/)
 Convert JSON config files to SCSS!
 
 [![Build status](https://travis-ci.org/satya164/json2scss.svg?branch=master)](https://travis-ci.org/satya164/json2scss)
